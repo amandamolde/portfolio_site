@@ -255,6 +255,22 @@ textarea.form-control {
 }
 
 /* ---------------------------------------------- /*
+ * Devicons
+/* ---------------------------------------------- */
+.icon-padding {
+	padding: 1.5em;
+}
+.icon-size {
+	font-size: 75px;
+	color: #49e2d6;
+}
+
+.icon-label {
+	font-size: 2rem;
+}
+
+
+/* ---------------------------------------------- /*
  * Custom button style
 /* ---------------------------------------------- */
 
@@ -469,7 +485,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 #home {
-	background: url(../images/home1.jpg);
+	background: url(../images/home6.jpg);
 	background-color: #222;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
