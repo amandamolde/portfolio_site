@@ -913,6 +913,36 @@ button.mfp-close {
 	color: rgba(255, 255, 255, .5);
 }
 
+.social-links2 {
+	list-style: none;
+	padding: 0;
+	margin: 0 0 20px;
+}
+
+.social-links2 li {
+	display: inline-block;
+	margin: 5px;
+}
+
+.social-links2 a {
+	width: 36px;
+	height: 36px;
+	display: block;
+	line-height: 35px;
+	text-align: center;
+	border: 1px solid rgba(0, 0, 0, .1);
+	-webkit-border-radius: 50%;
+	   -moz-border-radius: 50%;
+			border-radius: 50%;
+	font-size: 14px;
+	color: rgba(0, 0, 0, .2);
+}
+
+.social-links2 a:hover {
+	border: 1px solid rgba(0, 0, 0, .5);
+	color: rgba(0, 0, 0, .5);
+}
+
 /* ---------------------------------------------- /*
  * Navigation
 /* ---------------------------------------------- */
